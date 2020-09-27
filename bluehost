@@ -1,0 +1,23 @@
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+Nicolettes-MBP:~ NJSTRAMARA$ ssh-keyscan -t rsa whiskinwellness.com >> ~/.ssh/known_hosts ; exit;
+-----BEGIN RSA PRIVATE KEY-----
+Proc-Type: 4,ENCRYPTED
+DEK-Info: DES-EDE3-CBC,C830CDAE72179544
+
+8/bV+Cd93Y5TolXV6HvXk76C/xq4JorHny1ahihRJqCpp8wKFQXVGOIHIFvav+pd
+uYuRTrucpDBBpXzfMKvSms+XzbFNTQrI8sU6kJYeRm466FrFSMfM6zgCfalRe1/b
+vIWDqzYpnSgpuqoLz9g4MVjZpqfFzLeqan6uh7rlXRmgJxSmkJdKCgaErVxeOMs2
+szRhArmJ8if9VBAetA4pUfp5QsSveLXgIpJvDuDHJPphnChBqwqQziYsTlCtr+CW
+a+Exg4ql+AGHn9JkosRkt8rAmeoxBejzXNVJ82r94hHDLRll8aebXQUEfd4bqGC2
+eqMhzezljmiDLm8TFjWy9y+sPtTNuEnZq97+0OxWEm1RrnLvTpa0CFRLysDRa0+v
+G3qps4+f/ihdO3SN6y9kieFTk4rEvg8PdNkumtS1B/ONxH/tzkjUy+cj7M1MXN73
+7SyE5ZPUqJPxBlCMO6T7E+1cGxDkNJkgRMFdBg7V0ZWxJE+EjVYATEtdol05ein7
+EQVJykVHF2o9Zk1N02Sv2m+xxwOUne7/w2V+lqDKhuj+IEx0k0kzb76YGrxYHdf2
+pF3z5cOtLcHOXHIE0zkrXu3u/ISrZyfS34+CkmEDwHSfAGm4VVKQAQy/E2J5Xzho
+TJ5uoTkbAdHFOGZ38AmVsXeI2sM/iq2kZ+sck4TgMz4EpcE/imzp9dNZlBhMUmwE
+/kZ9VBaNjjGa/GaDEMKtj0/IHvyJs2SQsGQpDE54FsfCNun6P+fmxrFBJDaqqijW
+yIM3LdoyWFZjaw+mplzjQ6fU/m2JbWJudthZlNhEXfceVxhHZHMcY/+q46TYNRDy
+ix05jWz0elT71RJa0eeuhYoMhLA7aIDi6CCVVF0KKBgWbgnJJxtTKgMLL65xcq3s
+logout
